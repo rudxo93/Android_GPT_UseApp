@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">UseGPT</string>
+
+    <!-- MainActivity -->
+    <string name="main_btn_move_chat">Chat GPT</string>
+    <!-- ChatActivity -->
+    <string name="chat_first_chat_gpt_page">Welcome</string>
+    <string name="chat_send_hint_text_box">Write here</string>
 </resources>
